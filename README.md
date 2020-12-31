@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Esteban
 
-My name is Esteban Solano Granados, and I'm a software engineer based in Costa Rica 🇨🇷
+My name is Esteban Solano Granados, and I'm a software engineer based in Costa Rica.
 
 Visit my blog! https://stvansolano.github.io/blog/
 
