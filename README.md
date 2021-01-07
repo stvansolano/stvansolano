@@ -20,4 +20,6 @@ You can find and get touch with me on these accounts!
 
 [![Twitter Badge](https://img.shields.io/badge/stvansolano-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/stvansolano/)
 
+[![YouTube Badge](https://img.shields.io/badge/stvansolano-follow%20on%20youtube-red?style=for-the-badge&logo=youtube)](https://youtube.com/stvansolano/)
+
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fstvansolano.stvansolano%2Freadme)
