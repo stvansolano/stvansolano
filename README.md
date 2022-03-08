@@ -6,8 +6,7 @@ Visit my blog! https://stvansolano.github.io/blog/
 
 ## Some stats
 
-![LG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stvansolano&show_icons=true)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=stvansolano&count_private=true)
 
 ## Languages 💡
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stvansolano&hide=scss&layout=compact)
